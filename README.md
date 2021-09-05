@@ -5,6 +5,12 @@ servers and their labels and also update labels of the destination instance.
 
 Check [Lobby](https://gitea.ceperka.net/cx/lobby) for more information.
 
+## Installation
+
+```shell
+pip install lobby-python
+```
+
 ## Example
 
 ```python
